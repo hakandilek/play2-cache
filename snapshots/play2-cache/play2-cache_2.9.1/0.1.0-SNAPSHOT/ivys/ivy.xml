@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="play2-cache" module="play2-cache_2.9.1" revision="0.1.0-SNAPSHOT" status="release" publication="20121005151705">
+	<info organisation="play2-cache" module="play2-cache_2.9.1" revision="0.1.0-SNAPSHOT" status="release" publication="20121005153457">
 		<description>
 		play2-cache
 		</description>
