@@ -1,1 +1,0 @@
-Index.PACKAGES = {"play" : [], "play.utils" : [], "play.utils.cache" : [{"class" : "play\/utils\/cache\/CachedFinder.html", "name" : "play.utils.cache.CachedFinder"}, {"class" : "play\/utils\/cache\/InterimCache.html", "name" : "play.utils.cache.InterimCache"}]};
